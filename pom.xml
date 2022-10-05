@@ -10,7 +10,7 @@
 		<java.version>1.8</java.version>
 		<slf4j.version>1.7.5</slf4j.version>
 		<poi.version>3.17</poi.version>
-		<jackson.databind-version>2.9.8</jackson.databind-version>
+		<jackson.databind-version>2.12.6.1</jackson.databind-version>
 	</properties>
 
 	<dependencies>
